@@ -1,0 +1,30 @@
+.message_card{
+    padding:5px ;
+    text-align: left;
+    margin-left:10px;
+    margin-right: 10px;
+    width:fit-content;
+    max-width: 320px;
+    height: fit-content;
+    
+    
+    
+   
+
+}
+.message_user{
+    
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+    
+}
+.message_userCard{
+    
+    background-color: rgb(66, 66, 255) !important;
+    
+}
+.message_guestCard{
+    
+    background-color: rgb(199, 196, 191) !important;
+}
